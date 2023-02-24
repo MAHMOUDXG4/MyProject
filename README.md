@@ -1,1 +1,2 @@
 # MyProject
+Car dealership database
